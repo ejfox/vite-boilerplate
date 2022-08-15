@@ -1,5 +1,12 @@
 # ej-vite-boilerplate
 
+## Using this template
+```
+npx degit ejfox/vite-boilerplate PROJECT_NAME
+cd PROJECT_NAME
+yarn
+```
+
 ## Project setup
 ```
 npm install
